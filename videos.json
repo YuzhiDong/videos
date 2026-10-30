@@ -1,0 +1,42 @@
+[
+  {
+    "id": "agent-collab-explainer",
+    "title": "多个 AI 助手怎么一起干活？",
+    "description": "用工程蓝图的方式，看几个 AI 助手怎样分工、交接、检查，一起把一个小游戏做出来。",
+    "site_thumb": "thumbs/agent-collab-explainer.jpg",
+    "duration_mmss": "2:55",
+    "youtube_id": "Tv0YCfclZME"
+  },
+  {
+    "id": "vector-db-explainer",
+    "title": "向量数据库：在星空里找相似",
+    "description": "把文字变成星空里的点，看看电脑怎样很快找到意思最接近的那颗星。",
+    "site_thumb": "thumbs/vector-db-explainer.jpg",
+    "duration_mmss": "1:44",
+    "youtube_id": "ULuUV9xTFX4"
+  },
+  {
+    "id": "github-explainer",
+    "title": "GitHub 是什么？",
+    "description": "一起认识程序员存放和合作写代码的地方：仓库、提交、分支和合并。",
+    "site_thumb": "thumbs/github-explainer.jpg",
+    "duration_mmss": "1:28",
+    "youtube_id": "BWeN_rlhEp8"
+  },
+  {
+    "id": "beijing-travel",
+    "title": "北京旅游攻略",
+    "description": "盖着护照印章去北京：故宫、天安门、国家博物馆和八达岭长城，出发前要知道的小规则。",
+    "site_thumb": "thumbs/beijing-travel.jpg",
+    "duration_mmss": "1:39",
+    "youtube_id": "KpgipLSyy1s"
+  },
+  {
+    "id": "grok-bot-explainer",
+    "title": "认识 Grok Bot 小助手",
+    "description": "一个会帮忙做游戏、查资料、做视频的 AI 小助手是怎样工作的。",
+    "site_thumb": "thumbs/grok-bot-explainer.jpg",
+    "duration_mmss": "1:18",
+    "youtube_id": "ALdRUT-HgKI"
+  }
+]
