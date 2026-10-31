@@ -20,6 +20,6 @@ const list=document.getElementById('list');
 for(const v of VIDEOS){const c=document.createElement('div');c.className='card';
 c.innerHTML=`<div class="player"><img loading="lazy" src="${v.site_thumb}" alt=""><div class="play">▶</div><span class="dur">${v.duration_mmss}</span>${v.youtube_id?'':'<span class="soon">即将上线</span>'}</div><div class="body"><h2></h2><p></p></div>`;
 c.querySelector('h2').textContent=v.title;c.querySelector('p').textContent=v.description;
-const p=c.querySelector('.player');p.onclick=()=>{if(!v.youtube_id)return;p.innerHTML=`<iframe src="https://www.youtube-nocookie.com/embed/${v.youtube_id}?autoplay=1&rel=0&playsinline=1" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen loading="lazy" title=""></iframe>`;};
+const p=c.querySelector('.player');p.onclick=()=>{if(!v.youtube_id)return;p.innerHTML=`<iframe src="https://www.youtube.com/embed/${v.youtube_id}?autoplay=1&rel=0&playsinline=1&origin=${encodeURIComponent(location.origin)}" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen loading="lazy" title=""></iframe>`;};
 list.appendChild(c);}
 </script></body></html>
