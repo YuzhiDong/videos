@@ -1,5 +1,12 @@
 [
   {
+    "id": "github-explainer-v2",
+    "title": "GitHub 地铁图：一群人怎么一起改代码",
+    "description": "把代码历史画成地铁线路：仓库、提交、分支、拉取请求和合并，一站一站看明白。",
+    "site_thumb": "thumbs/github-explainer-v2.jpg",
+    "duration_mmss": "1:18"
+  },
+  {
     "id": "agent-collab-explainer",
     "title": "多个 AI 助手怎么一起干活？",
     "description": "用工程蓝图的方式，看几个 AI 助手怎样分工、交接、检查，一起把一个小游戏做出来。",
