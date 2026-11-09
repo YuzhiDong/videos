@@ -1,5 +1,12 @@
 [
   {
+    "id": "tesla-explainer",
+    "title": "一分钟认识特斯拉",
+    "description": "从 2003 年创立到电池、电机、超级充电、OTA 升级、驾驶辅助、储能和超级工厂，一分半钟看懂这家公司。",
+    "site_thumb": "thumbs/tesla-explainer.jpg",
+    "duration_mmss": "1:30"
+  },
+  {
     "id": "github-explainer-v2",
     "title": "GitHub 地铁图：一群人怎么一起改代码",
     "description": "把代码历史画成地铁线路：仓库、提交、分支、拉取请求和合并，一站一站看明白。",
