@@ -1,5 +1,12 @@
 [
   {
+    "id": "yancheng-guide",
+    "title": "盐城旅游攻略指南",
+    "description": "看丹顶鹤、找麋鹿、等潮水：黄海湿地怎么玩，什么季节去，吃什么，三天怎么走。",
+    "site_thumb": "thumbs/yancheng-guide.jpg",
+    "duration_mmss": "2:02"
+  },
+  {
     "id": "tesla-explainer",
     "title": "一分钟认识特斯拉",
     "description": "从 2003 年创立到电池、电机、超级充电、OTA 升级、驾驶辅助、储能和超级工厂，一分半钟看懂这家公司。",
