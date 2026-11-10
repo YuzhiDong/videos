@@ -1,5 +1,12 @@
 [
   {
+    "id": "cdp-explainer",
+    "title": "认识 CDP 浏览器自动化",
+    "description": "Chrome DevTools Protocol 是什么：用 JSON 和 WebSocket 控制浏览器，以及 Puppeteer、Playwright 和要注意的安全事项。",
+    "site_thumb": "thumbs/cdp-explainer.jpg",
+    "duration_mmss": "1:57"
+  },
+  {
     "id": "yancheng-guide",
     "title": "盐城旅游攻略指南",
     "description": "看丹顶鹤、找麋鹿、等潮水：黄海湿地怎么玩，什么季节去，吃什么，三天怎么走。",
