@@ -1,5 +1,12 @@
 [
   {
+    "id": "nvidia-explainer",
+    "title": "3 分钟看懂英伟达",
+    "description": "从 1993 年餐厅里聊出的显卡公司，到 GPU、CUDA、AlexNet 和数据中心芯片，看英伟达怎样成为 AI 算力巨头。",
+    "site_thumb": "thumbs/nvidia-explainer.jpg",
+    "duration_mmss": "3:40"
+  },
+  {
     "id": "cdp-explainer",
     "title": "认识 CDP 浏览器自动化",
     "description": "Chrome DevTools Protocol 是什么：用 JSON 和 WebSocket 控制浏览器，以及 Puppeteer、Playwright 和要注意的安全事项。",
